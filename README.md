@@ -1,4 +1,4 @@
 OAuthUsingScribe
 ================
 
-Open Authentication using Scribe Linbrary and Facebook account
+Open Authentication using Scribe Library and Facebook account
